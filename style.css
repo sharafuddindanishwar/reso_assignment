@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  background-color: gray;
+}
+button{
+  color: white;
+  font-size: 50px;
+  padding: 50px 200px;
+  border-radius: 20px;
+  
+  background-color: blueviolet;
+}
+.imges {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  white-space: normal;
+  flex-flow: column;
+  margin: 150px;
+}
+p{
+  margin-bottom:50px ;
+  margin-top: 80px;
+  font-weight: bold;
+  color:darkgray;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 100px;
+}
